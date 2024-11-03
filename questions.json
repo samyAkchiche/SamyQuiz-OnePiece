@@ -1,0 +1,408 @@
+[{
+    "question": "How old is Dr.Kureha ?",
+    "choice1": "139 yo",
+    "choice2": "140 yo",
+    "choice3": "141 yo",
+    "choice4": "I don't know",
+    "answer": 3
+},
+{
+    "question": "What was Dr.Hiluluk's research about ?",
+    "choice1": "A medecine capable of curing all diseases",
+    "choice2": "A cherry tree seed that can germinate in snowy terrain",
+    "choice3": "A substance that colors snowflakes pink",
+    "choice4": "A remedy for amiudake",
+    "answer": 1
+},
+{
+    "question": "Under which eye is Luffy's scar located ?",
+    "choice1": "To the right",
+    "choice2": "To the left",
+    "choice3": "It is a secret",
+    "choice4": "I don't know where is my left and right",
+    "answer": 2
+},
+{
+    "question": "How much does Ussop's hammer weight ?",
+    "choice1": "1kg",
+    "choice2": "10kg",
+    "choice3": "1t",
+    "choice4": "5t",
+    "answer": 4
+},
+{
+    "question": "Which of Chopper's horn is broken ?",
+    "choice1": "The right one",
+    "choice2": "The left one",
+    "choice3": "Both",
+    "choice4": "None",
+    "answer": 4
+},
+{
+    "question": "What does Mr.3 likes to drink ?",
+    "choice1": "Coffee",
+    "choice2": "Milk",
+    "choice3": "Tea",
+    "choice4": "Sake",
+    "answer": 3
+},
+{
+    "question": "Who sucks all of the poison out of Luffy's body ?",
+    "choice1": "Hancock",
+    "choice2": "Reiju",
+    "choice3": "Nami",
+    "choice4": "Robin",
+    "answer": 2
+},
+{
+    "question": "Who was the first marine Admiral to be shown in the series ?",
+    "choice1": "Akainu",
+    "choice2": "Aokiji",
+    "choice3": "Kizaru",
+    "choice4": "Sengoku",
+    "answer": 2
+},
+{
+    "question": "Who was the first villain to defeat Luffy ?",
+    "choice1": "Don Krieg",
+    "choice2": "Aarlong",
+    "choice3": "Baggy",
+    "choice4": "Crocodile",
+    "answer": 4
+},
+{
+    "question": "Who is the first man to have joined Gol D.Roger's crew ?",
+    "choice1": "Buggy The Star Clown",
+    "choice2": "Red-Haired Shanks",
+    "choice3": "Silver Rayleigh",
+    "choice4": "Crocus",
+    "answer": 3
+},
+{
+    "question": "Where was Gol D.Roger executed ?",
+    "choice1": "Raftel",
+    "choice2": "Loguetown",
+    "choice3": "Goa Kingdom",
+    "choice4": "Gray Terminal",
+    "answer": 2
+},
+{
+    "question": "Who was the first Warlord of the sea to be introduced ?",
+    "choice1": "Dracula Mihawk",
+    "choice2": "Jimbei",
+    "choice3": "Crocodile",
+    "choice4": "Blackbeard",
+    "answer": 1
+},
+{
+    "question": "How many times did Zoro lose to Kuina ?",
+    "choice1": "101",
+    "choice2": "201",
+    "choice3": "2001",
+    "choice4": "1001",
+    "answer": 3
+},
+{
+    "question": "Which sword does Zoro use with his mouth ?",
+    "choice1": "Wado Ichimonji",
+    "choice2": "Shusui",
+    "choice3": "Sandai Kitetsu",
+    "choice4": "Enma",
+    "answer": 1
+},
+{
+    "question": "What is the name of Brook's old crew ?",
+    "choice1": "The Roshio Pirates",
+    "choice2": "The On-Air Pirates",
+    "choice3": "The Rumbar Pirates",
+    "choice4": "The Spade Pirates",
+    "answer": 3
+},
+{
+    "question": "Which weapon did Uso... Sogeking use to shoot the World Government flag in Enies Lobby ?",
+    "choice1": "Ginga Pachinko",
+    "choice2": "Kuro Kabuto",
+    "choice3": "Kabuto",
+    "choice4": "A bazooka",
+    "answer": 3
+},
+{
+    "question": "How many members are there in the Worst Generation ?",
+    "choice1": "10",
+    "choice2": "11",
+    "choice3": "13",
+    "choice4": "12",
+    "answer": 4
+},
+{
+    "question": "What is the name of Kizaru's fruit ?",
+    "choice1": "Glint-Glint Fruit",
+    "choice2": "Light-Light Fruit",
+    "choice3": "Glow-Glow Fruit",
+    "choice4": "Gleam-Gleam Fruit",
+    "answer": 1
+},
+{
+    "question": "Why exactly does Señor Pink wear baby clothes ?",
+    "choice1": "Because his baby dies",
+    "choice2": "Because it made his wife smile",
+    "choice3": "Because he genuinely finds it fashionable",
+    "choice4": "Because it's hard-boiled",
+    "answer": 2
+},
+{
+    "question": "Where was the first Road Poneglyph located that the Straw Hats found ?",
+    "choice1": "Fishman Island",
+    "choice2": "Zou",
+    "choice3": "Wholecake Island",
+    "choice4": "Wano",
+    "answer": 2
+},
+{
+    "question": "Who could not only listen, but communicate with Zunesha ?",
+    "choice1": "Momonosuke",
+    "choice2": "Luffy",
+    "choice3": "Inuarashi",
+    "choice4": "Nekomamushi",
+    "answer": 1
+},
+{
+    "question": "What is the only race/tribe you can't find on Tottoland ?",
+    "choice1": "Mink Tribe",
+    "choice2": "Three-Eye Tribe",
+    "choice3": "Merfolk",
+    "choice4": "Giants",
+    "answer": 4
+},
+{
+    "question": "Who is the first Straw Hat to be shown in the anime ?",
+    "choice1": "Luffy",
+    "choice2": "Nami",
+    "choice3": "Zoro",
+    "choice4": "Usopp",
+    "answer": 2
+},
+{
+    "question": "Who made the first version of the Straw Hat Pirates flag ?",
+    "choice1": "Luffy",
+    "choice2": "Nami",
+    "choice3": "Zoro",
+    "choice4": "Usopp",
+    "answer": 1
+},
+{
+    "question": "What was the name of Jinbe's former captain while he was a member of the Sun Pirates ?",
+    "choice1": "Fisher Tiger",
+    "choice2": "Grand Tiger",
+    "choice3": "Fishing Tiger",
+    "choice4": "Sea Tiger",
+    "answer": 1
+},
+{
+    "question": "What sea is Sanji from ?",
+    "choice1": "The Grand Line",
+    "choice2": "East Blue",
+    "choice3": "West Blue",
+    "choice4": "North Blue",
+    "answer": 4
+},
+{
+    "question": "When you eat a devil fruit, what ability do you lose ?",
+    "choice1": "The ability to walk",
+    "choice2": "The ability to sea",
+    "choice3": "The ability to swim",
+    "choice4": "The ability to eat",
+    "answer": 3
+},
+{
+    "question": "What is the longest arc in one Piece ?",
+    "choice1": "Dressrosa",
+    "choice2": "Wano",
+    "choice3": "Romance Down",
+    "choice4": "Fishman Island",
+    "answer": 2
+},
+{
+    "question": "How old was luffy pre-timeskip ?",
+    "choice1": "18",
+    "choice2": "16",
+    "choice3": "19",
+    "choice4": "17",
+    "answer": 4
+},
+{
+    "question": "What was luffy's first ever attack ?",
+    "choice1": "Gum Gum - Bullet",
+    "choice2": "Gum Gum - Pistol",
+    "choice3": "Gum Gum - Bazooka",
+    "choice4": "Gum Gum - Rifle",
+    "answer": 2
+},
+{
+    "question": "What is the Straw Hats' first ship name ?",
+    "choice1": "Going Merry",
+    "choice2": "Go Merry",
+    "choice3": "Thousand Sunny",
+    "choice4": "Sunny side up",
+    "answer": 1
+},
+{
+    "question": "How many CP-0 members are there ?",
+    "choice1": "6 members",
+    "choice2": "7 members",
+    "choice3": "3 members",
+    "choice4": "4 members",
+    "answer": 1
+},
+{
+    "question": "What is the first arc after the timeskip ?",
+    "choice1": "Punk Hazard",
+    "choice2": "Marine Ford",
+    "choice3": "Dressrosa",
+    "choice4": "Fishman Island",
+    "answer": 4
+},
+{
+    "question": "How long did Rayleigh train Luffy ?",
+    "choice1": "2 years",
+    "choice2": "1 year",
+    "choice3": "6 mounths",
+    "choice4": "11 mounths",
+    "answer": 3
+},
+{
+    "question": "How long did Luffy vs Katakuri last ?",
+    "choice1": "11 hours",
+    "choice2": "15 hours",
+    "choice3": "9 hours",
+    "choice4": "24 hours (a day)",
+    "answer": 1
+},
+{
+    "question": "How often does the reverie happen in One Piece ?",
+    "choice1": "Every 3 years",
+    "choice2": "Every 5 years",
+    "choice3": "Every 2 years",
+    "choice4": "Every 4 years",
+    "answer": 4
+},
+{
+    "question": "Who is the tallest ?",
+    "choice1": "Jinbe",
+    "choice2": "Brook",
+    "choice3": "Franky",
+    "choice4": "Zoro",
+    "answer": 1
+},
+{
+    "question": "Smoker is always seen with... ?",
+    "choice1": "1 cigar",
+    "choice2": "2 cigars",
+    "choice3": "3 cigars",
+    "choice4": "4 cigars",
+    "answer": 2
+},
+{
+    "question": "At the end of East Blue Saga, which of these Mugiwara has not yet joined Luffy's crew ?",
+    "choice1": "Nami",
+    "choice2": "Sanji",
+    "choice3": "Robin",
+    "choice4": "Usopp",
+    "answer": 3
+},
+{
+    "question": "What is the name of Zoro's childhood friend ?",
+    "choice1": "Kuina",
+    "choice2": "Nojiko",
+    "choice3": "Nami",
+    "choice4": "Hinata",
+    "answer": 1
+},
+{
+    "question": "The Logia type devil fruit allows you to ?",
+    "choice1": "Tranform into an animal",
+    "choice2": "Take the form of an element",
+    "choice3": "Master the king's haki",
+    "choice4": "Alterate your body",
+    "answer": 2
+},
+{
+    "question": "What is Franky's real name ?",
+    "choice1": "Frank Lym",
+    "choice2": "Cutty Flam",
+    "choice3": "Minatomo",
+    "choice4": "Frankish Stime",
+    "answer": 2
+},
+{
+    "question": "With what weapon does Sabo fight ?",
+    "choice1": "With a sword",
+    "choice2": "With a mace",
+    "choice3": "With an iron pipe",
+    "choice4": "With a wooden stick",
+    "answer": 3
+},
+{
+    "question": "What is the name of Arlong's lieutenant defeated by Zoro ?",
+    "choice1": "Kuroobi",
+    "choice2": "Hatchan",
+    "choice3": "Smach",
+    "choice4": "Shizo",
+    "answer": 2
+},
+{
+    "question": "What is the name of the builder of the ship in Gol D.Roger's crew ?",
+    "choice1": "Bill",
+    "choice2": "Tom",
+    "choice3": "Bob",
+    "choice4": "Pat",
+    "answer": 2
+},
+{
+    "question": "What is Smoker part of in the Marines ?",
+    "choice1": "G-5",
+    "choice2": "G-1",
+    "choice3": "G-2",
+    "choice4": "G-4",
+    "answer": 1
+},
+{
+    "question": "What is the name of Sanji's arranged fiancée during the Whole Cake Island arc ?",
+    "choice1": "Charlotte Amande",
+    "choice2": "Charlotte Smoothie",
+    "choice3": "Charlotte Jelly",
+    "choice4": "Charlotte Pudding",
+    "answer": 4
+},
+{
+    "question": "How long was Portgas D.Rouge's pregnancy ?",
+    "choice1": "6 months",
+    "choice2": "9 months",
+    "choice3": "20 months",
+    "choice4": "17 months",
+    "answer": 3
+},
+{
+    "question": "How many years after meeting Shanks does Luffy set sail ?",
+    "choice1": "5 years",
+    "choice2": "10 years",
+    "choice3": "2 years",
+    "choice4": "15 years",
+    "answer": 2
+},
+{
+    "question": "Which of these Luffy techniques does NOT exist ?",
+    "choice1": "Gomu Gomu No Mushi",
+    "choice2": "Gomu Gomu No Kabuki",
+    "choice3": "Gomu Gomu No Kaiten Ono",
+    "choice4": "Gomu Gomu No Tonkachi",
+    "answer": 2
+},
+{
+    "question": "Which of Usopp's lies ultimately turns out to be true ?",
+    "choice1": "The 8,000 men under his command",
+    "choice2": "The doormat monster",
+    "choice3": "Giant fish dropping droppings the size of an island",
+    "choice4": "None of these lies turn out to be true",
+    "answer": 3
+}]
