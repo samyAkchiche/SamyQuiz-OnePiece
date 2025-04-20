@@ -1,7 +1,18 @@
 #highScoresList {
     list-style: none;
-    padding-left: 0;
-    margin-top: 4rem;
+}
+.highScoresContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(239, 239, 239);
+    min-width: 40rem;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.high-score {
+    transition: text-shadow 0.3s ease-in-out;
 }
 
 .high-score {

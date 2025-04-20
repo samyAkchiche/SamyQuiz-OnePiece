@@ -6,7 +6,7 @@ body {
     padding: 2rem;
     background-color: #f5f5ed;
     border-radius: 2.5rem;
-    box-shadow: 0px 13px 15px 6px rgba(0,0,0,0.1);
+    box-shadow: 0px 13px 15px 6px rgba(0, 0, 0, 0.1);
 }
 
 #question {
@@ -97,7 +97,7 @@ body {
     }
 }
 
-/* Media */ 
+/* Media */
 
 @media screen and (max-width: 250px) {
     #question {

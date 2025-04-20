@@ -101,7 +101,7 @@ h3 {
 }
 
 .btn[disabled]:hover {
-    cursor : not-allowed;
+    cursor: not-allowed;
     box-shadow: none;
     transform: none;
 }
