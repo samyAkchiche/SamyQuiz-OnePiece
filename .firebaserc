@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "onepiece-quiz-2022",
+    "staging": "onepiece-quiz-2022"
+  },
+  "targets": {},
+  "etags": {}
+}
