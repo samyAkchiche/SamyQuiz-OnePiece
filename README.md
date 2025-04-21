@@ -1,6 +1,10 @@
 # 🏴‍☠️ SamyQuiz-OnePiece
 
 Welcome to **SamyQuiz-OnePiece** — a fun and engaging trivia game built for fans of the *One Piece* anime and manga series! This app challenges players with a series of multiple-choice questions that test their knowledge of the One Piece world — from characters and story arcs to epic battles and hidden lore.
+
+![App Screenshot](onepieceQuiz-Screenshot.png)
+
+
 ## 🚀 Features
 
 - 🎯 Multiple-choice questions about One Piece
