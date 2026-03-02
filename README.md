@@ -17,6 +17,7 @@ Welcome to **SamyQuiz-OnePiece** — a fun and engaging trivia game built for fa
 - CSS3
 - JavaScript (Vanilla)
 - Firebase (Firestore & Hosting)
+- Purgomalum (Profanity filter)
 
 ## 🎥 Live Demo
 
